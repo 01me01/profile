@@ -1,0 +1,16 @@
+*,
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  box-sizing: border-box;
+  overflow-x: hidden;
+  /* background-color:rgb(48, 179, 179); */
+}
+
+html {
+  background-color: rgb(48, 179, 179);
+}
